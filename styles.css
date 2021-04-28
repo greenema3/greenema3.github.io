@@ -1,0 +1,24 @@
+p{
+    background-color:deeppink;
+    color: blue;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 300px;
+    height: 500px;
+}
+div{
+ display: inline-block;
+ font-size: 100px;
+ background-color: yellowgreen;  
+ border: 10px solid blueviolet;
+ padding-left: 50px;
+ margin-top:20px; 
+}
+#blue-text{
+    color: blue
+}
+.pink{
+    background-color: deeppink;
+}
